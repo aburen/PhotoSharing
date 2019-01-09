@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\PhotoSharing.DAL.dll.config
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\PhotoSharing.DAL.dll
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\PhotoSharing.DAL.pdb
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\obj\Debug\PhotoSharing.DAL.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\obj\Debug\PhotoSharing.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\obj\Debug\PhotoSharing.DAL.csproj.CopyComplete
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\obj\Debug\PhotoSharing.DAL.dll
+C:\Users\lenovo\Documents\Epam\PhotoSharing\PhotoSharing.DAL\obj\Debug\PhotoSharing.DAL.pdb
